@@ -1,0 +1,7 @@
+mongo-api/
+fiware/
+**/node_modules/
+**/.env
+test.txt
+.vscode/
+composed.yml
